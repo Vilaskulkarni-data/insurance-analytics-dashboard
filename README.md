@@ -45,14 +45,17 @@ The project covers analysis of:
 ### Excel Dashboard
 
 The Excel dashboard provides KPI-based analysis and visual summaries of insurance business performance.
+![Excel Dashboard](excel_dashboard.png)
 
 ### Power BI Dashboard
 
 The Power BI dashboard provides interactive visualizations for exploring insurance business metrics.
+![Power BI Dashboard](powerbi_dashboard.png)
 
 ### Tableau Dashboard
 
 The Tableau dashboard presents insurance analytics through interactive visualizations and business performance views.
+![Tableau Dashboard](tableau_dashboard.png)
 
 ## Dataset
 
